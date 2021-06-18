@@ -20,6 +20,9 @@ Scripts for the 4 unit tests described in the report.
 ### Utils:
 Mel-spectrogram visualization (data examination), index creator (makes indices for data set) and visualization of categorical distribution for sampling. 
 
+### Results and statistics:
+Includes the results of validation using the ASR Notebooks and the script calculating the statistics results. 
+
 ### Generated audio:
 Add all audio samples that we refer to in the report.
 
